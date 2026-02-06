@@ -1,4 +1,4 @@
-# Dr. Mei Lin Zhao - Traditional Chinese Medicine Website
+# Dr. Mei Lin Zhao - Traditional Chinese Medicine Websit
 
 A modern, conversion-focused single-page website for a Traditional Chinese Medicine practitioner. Built with React, TypeScript, Tailwind CSS, and Vite.
 
